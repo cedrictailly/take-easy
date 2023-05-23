@@ -1,0 +1,14 @@
+{
+  "name": "take-easy",
+  "version": "1.0.0",
+  "description": "A utility package for managing asynchronous callbacks with a relaxed and easygoing approach.",
+  "main": "index.js",
+  "author": "Cédric Tailly",
+  "license": "MIT",
+  "keywords": [
+    "async",
+    "callback",
+    "concurrency",
+    "utility"
+  ]
+}
